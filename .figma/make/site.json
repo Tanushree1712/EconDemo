@@ -1,0 +1,10 @@
+{
+  "description": "This eCommerce platform enables businesses to showcase and sell products online, providing a seamless shopping experience for customers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
